@@ -1,11 +1,16 @@
 body{
 margin:0;
 font-family: Helvetica;
+background-color: black;
+}
+
+h1{
+color:white;  
 }
 
 #logo {
-  height:160px;
-  width:240px;
+  height:280px;
+  width:340px;
 }
 
 #container{
