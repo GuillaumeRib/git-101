@@ -4,14 +4,14 @@ font-family: Helvetica;
 }
 
 #logo {
-  height:120px;
-  width:160px;
+  height:160px;
+  width:200px;
 }
 
 #container{
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 50vh;
   flex-direction: column;
 }
